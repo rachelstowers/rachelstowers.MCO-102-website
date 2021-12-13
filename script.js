@@ -28,7 +28,7 @@ function timelineChanged() {
   ];
 
   var timelineImages = [
-    "https://cdn.glitch.com/39045d83-3b3c-48a5-b8fe-817b8c9e978b%2F1-blue_asbestos.jpg?v=1586728089124",
+    "https://github.com/rachelstowers/rachelstowers.MCO-102-website/blob/main/1-blue_asbestos.jpg?raw=true",
     "https://cdn.glitch.com/39045d83-3b3c-48a5-b8fe-817b8c9e978b%2F2-wittenoom_gorge_mine.jpg?v=1587081790865",
     "https://cdn.glitch.com/39045d83-3b3c-48a5-b8fe-817b8c9e978b%2F3-medicine.jpg?v=1588102691273",
     "https://cdn.glitch.com/39045d83-3b3c-48a5-b8fe-817b8c9e978b%2F4-wittenoom-ghosttown.jpg?v=1588102754126",
