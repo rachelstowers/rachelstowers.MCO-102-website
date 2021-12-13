@@ -29,11 +29,11 @@ function timelineChanged() {
 
   var timelineImages = [
     "https://github.com/rachelstowers/rachelstowers.MCO-102-website/blob/main/1-blue_asbestos.jpg?raw=true",
-    "https://cdn.glitch.com/39045d83-3b3c-48a5-b8fe-817b8c9e978b%2F2-wittenoom_gorge_mine.jpg?v=1587081790865",
-    "https://cdn.glitch.com/39045d83-3b3c-48a5-b8fe-817b8c9e978b%2F3-medicine.jpg?v=1588102691273",
-    "https://cdn.glitch.com/39045d83-3b3c-48a5-b8fe-817b8c9e978b%2F4-wittenoom-ghosttown.jpg?v=1588102754126",
-    "https://cdn.glitch.com/39045d83-3b3c-48a5-b8fe-817b8c9e978b%2F5-asbestos-wittenoom-sign.jpg?v=1588102854104",
-    "https://cdn.glitch.com/39045d83-3b3c-48a5-b8fe-817b8c9e978b%2F6-asbestos_tailings_wittenoom_gorge.jpg?v=1588102905325",
+    "https://github.com/rachelstowers/rachelstowers.MCO-102-website/blob/main/2-wittenoom_gorge_mine.jpg?raw=true",
+    "https://github.com/rachelstowers/rachelstowers.MCO-102-website/blob/main/3-medicine.jpg?raw=true",
+    "https://github.com/rachelstowers/rachelstowers.MCO-102-website/blob/main/4-wittenoom-ghosttown.jpg?raw=true",
+    "https://github.com/rachelstowers/rachelstowers.MCO-102-website/blob/main/5-asbestos-wittenoom-sign.jpg?raw=true",
+    "https://github.com/rachelstowers/rachelstowers.MCO-102-website/blob/main/6-asbestos_tailings_wittenoom_gorge.jpg?raw=true",
   ];
   
   var timelineText = [
